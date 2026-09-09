@@ -2,7 +2,7 @@
 
 ## TypeScript source modules
 
-Exported TypeScript functions must declare an explicit return type.
+Exported TypeScript functions, including small utility functions, must declare an explicit return type.
 
 ## JavaScript configuration
 
